@@ -36,3 +36,6 @@ Overall, paid search outperformed social in terms of conversion rate, time to cl
 * The sub-year time period makes time series analysis difficult especially any seasonality analysis.
 * 2018 ramping up activity also makes it difficult to figure out if any of the trends are tied to growth at Olist versus the effectiveness of the marketing channels.
 * There is also ambiguity surrounding what "social" channels mean in the dataset. It could mean influencer marketing, social media ads, organic social media posts or something else.
+
+### Dashboard
+* [Tableau Dashboard Link](https://public.tableau.com/app/profile/kacper.sienkiewicz/viz/OlistMarketingChannelComparison/Overview)
