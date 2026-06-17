@@ -4,8 +4,8 @@ Marketing teams want to understand which channels convert leads best, and create
 The Olist Brazilian E-Commerce Dataset offers an opportunity to do that statistical analysis as it contains a large amount of order records as well as a marketing funnel which contains marketing qualified leads (MQL), as well as when those leads were closed. The plan is to compare two channels: paid search and social (it is not clear from documentation if this means organic social media posts, social media ads, paid promotion by influencers etc.), and see how they compare.
 
 ## Dataset
-* (Olist Brazilian E-Commerce Dataset)[https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
-* (Olist Marketing Funnel)[https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist]
+* [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+* [Olist Marketing Funnel](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 I ended up downloaded all of the csv files from both links, however I only used  both of the marketing funnel files (olist_marketing_qualified_leads_dataset.csv and olist_closed_deals_dataset.csv), olist_order_items_dataset.csv, and olist_order_payments_dataset.csv. This was because the two order files were used to do a rudimentary revenue analysis, and the order_items file allowed for an easy join from the marketing funnel files to the order payments file.
 
