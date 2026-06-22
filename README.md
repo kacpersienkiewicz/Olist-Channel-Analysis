@@ -3,6 +3,11 @@ Marketing teams want to understand which channels convert leads best, and create
 
 The Olist Brazilian E-Commerce Dataset offers an opportunity to do that statistical analysis as it contains a large amount of order records as well as a marketing funnel which contains marketing qualified leads (MQL), as well as when those leads were closed. The plan is to compare two channels: paid search and social (it is not clear from documentation if this means organic social media posts, social media ads, paid promotion by influencers etc.), and see how they compare.
 
+## Executive Summary
+* Paid search performs better than social media, but the difference is small.
+* It take around 4 fewer days to close a paid search deal than social media.
+* Paid search drives more revenue than social media, but a more focused analysis is required to know exactly how much more revenue it drives.
+
 ## Dataset
 * [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * [Olist Marketing Funnel](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
