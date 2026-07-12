@@ -1,5 +1,5 @@
 # Analyzing Olist Marketing Channels and Revenue by Category, State, and Month
-Marketing teams want to understand which channels convert leads best, and create the most value to effectively spend their budget, and they want 
+Marketing teams want to understand which channels convert leads best, and create the most value to effectively spend their budget, and they want to understand how revenue breaks down by month, product category, and location to help direct their budget. Through a market channel analysis and revenue analysis, respectively, I try to understand the state of a Brazilian e-commerce company to help aid the marketing department in picking the right places to direct their budget.
 
 ## Key Findings
 * Home and Living goods (e.g. home furniture and appliances), Leisure & Hobbies (e.g. books and toys), and Electronics drive around 55% of revenue, and 57% of orders. While Leisures and Hobbies has a below mean average order value (AOV), the other categories have AOV near the mean.
